@@ -1,0 +1,12 @@
+# Betriebssysteme
+- [Linux Kernel](https://www.kernel.org/)
+- [Alpine Linux](https://alpinelinux.org/)
+- [Debian](https://www.debian.org/)
+- [Ubuntu](https://ubuntu.com/)
+- [LineageOS](https://lineageos.org/)
+- [PureOS](https://pureos.net/)
+- [armbian](https://www.armbian.com/)
+- [Finnix](https://www.finnix.org/)
+- [Knoppix](http://www.knoppix.org/)
+- [CSI Linux](https://csilinux.com/)
+- [Kali Linux](https://www.kali.org/)
